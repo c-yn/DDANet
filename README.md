@@ -1,2 +1,2 @@
 # DDANet
-[AAAI23] Dual-domain Attention for Image Deblurring
+The results on GoPro is available at 
